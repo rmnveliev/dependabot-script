@@ -3,7 +3,7 @@
 1. Build the dependabot-script Docker image
 
 ```shell
-git clone https://github.com/dependabot/dependabot-script.git
+git clone https://github.com/rmnveliev/dependabot-script
 cd dependabot-script
 
 docker build -t "dependabot/dependabot-script" -f Dockerfile .
